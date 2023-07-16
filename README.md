@@ -35,9 +35,6 @@ Welcome to my GitHub profile! Here you will find an overview of my projects, con
 
 ## Connect with Me
 
-- GitHub: [YourGitHubUsername](link-to-github-profile)
-- LinkedIn: [YourLinkedInProfile](link-to-linkedin-profile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- Website: [YourWebsite](link-to-your-website)
+- GitHub: [JosuEndara]((https://github.com/JosuEndara))
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a project. Let's connect and build something amazing together!
